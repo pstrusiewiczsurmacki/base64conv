@@ -4,7 +4,7 @@ Converts file to/from base64.
 
 Usage:
 
-./base64conv [OPTION] {iNPUT FILE] {OUTPUT FILE]
+./base64conv [OPTION] [INPUT FILE] {OUTPUT FILE]
 
 Options:
 -c    Convert file to base64
